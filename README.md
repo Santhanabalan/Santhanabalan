@@ -6,7 +6,7 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-# 💫 About Me:
+ 💫 About Me:
 🔭 I’m currently working on Django Projects.<br>👯 I’m looking to collaborate on Web Development projects.<br>🌱 I’m currently learning Django.<br>💬 Ask me about Tech related stuff...
 
 
